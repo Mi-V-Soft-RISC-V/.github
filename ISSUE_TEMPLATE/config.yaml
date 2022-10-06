@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Mi-V Soft RISC-V Discussion Forum
+    url: https://github.com/orgs/Mi-V-Soft-RISC-V/discussions
+    about: Please ask and answer questions here.
+  - name: Microchip Technical Support
+    url: https://microchipsupport.force.com/s/
+    about: Please open technical support cases here.
