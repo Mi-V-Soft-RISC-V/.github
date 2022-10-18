@@ -8,6 +8,11 @@ The Libero SoC Design Suite and SoftConsole development environments provide all
 
 For more information please see the Mi-V RISC-V Soft CPUs [product page](https://www.microchip.com/en-us/products/fpgas-and-plds/fpga-and-soc-design-tools/mi-v/soft-cpus).
 
+## Notice: miv-rv32-bare-metal-examples
+
+The miv-rv32-bare-metal-examples repository has been made private temporarily. This should be resolved and the repository made public again by mid November.
+Please check the [discussion forum](https://github.com/orgs/Mi-V-Soft-RISC-V/discussions) for the latest updates.
+
 ## Getting started
 
 This organisation provides the following for users to get started using the Mi-V soft RISC-V CPUs:
