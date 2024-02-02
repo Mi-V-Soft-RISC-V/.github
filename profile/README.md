@@ -46,6 +46,10 @@ Note: all reference design repositories also provide pre-generated programming j
 
 - [Future Avalanche Board](https://github.com/Mi-V-Soft-RISC-V/Future-Avalanche-Board):
   scripts to generate an FPGA reference design and FlashPro Express job files for the Future Avalanche Board
+  
+- [PolarFire SoC Discovery Kit](https://mi-v-ecosystem.github.io/redirects/repo-discovery-kit-reference-design):
+  scripts to generate a FPGA reference designs and FlashPro Express job files for the PolarFire SoC Discovery Kit.
+  **Note:** These scripts are part of the PolarFire SoC GitHub organisation, they support generating the standard Mi-V RV32 reference designs based on the PolarFire Eval Kit and run the Mi-V RV32 [bare metal examples](https://mi-v-ecosystem.github.io/_redirects/mi-v-soft-risc-v/miv-rv32-bare-metal-examples)
 
 - [PolarFire Eval Kit](https://github.com/Mi-V-Soft-RISC-V/PolarFire-Eval-Kit):
   scripts to generate an FPGA reference design and FlashPro Express job files for the PolarFire Eval Kit
@@ -61,5 +65,5 @@ Note: all reference design repositories also provide pre-generated programming j
 - [Platform](https://github.com/Mi-V-Soft-RISC-V/platform): Hardware Abstraction Layer (HAL) and
   peripheral drivers for Mi-V Soft CPUs
 
-- [Mi-V RV32 Bare Betal Examples](https://github.com/Mi-V-Soft-RISC-V/miv-rv32-bare-metal-examples):
+- [Mi-V RV32 Bare Metal Examples](https://github.com/Mi-V-Soft-RISC-V/miv-rv32-bare-metal-examples):
   drivers and example projects for Mi-V Soft RISC-V CPUs and their associated peripherals
